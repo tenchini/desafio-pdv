@@ -1,7 +1,7 @@
 # Introdução:
 Este projeto foi desenvolvido como parte do desafio de finalização do curso na instituição Cubos Academy, que consistia na criação de um sistema de PDV (Ponto de Venda). O sistema foi construído por uma equipe de 6 membros com o objetivo de exercitar todo o conteúdo abordado durante os 5 meses de curso.
 
-Praticamos metodologias ágeis com sprints, trabalho em equipe e daylies, a fim de simular tanto um ambiente colaborativo quanto o dia a dia de um desenvolvedor.
+Praticamos metodologias ágeis com sprints, trabalho em equipe e dailies, a fim de simular tanto um ambiente colaborativo quanto o dia a dia de um desenvolvedor.
 
 ## Arquitetura:
 - Padrão de arquitetura utilizada:  **Restfull API**
